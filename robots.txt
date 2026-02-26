@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://texcen-appliance-rep-43136.pages.dev/sitemap.xml
